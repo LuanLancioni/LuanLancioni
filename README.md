@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hello! My name is Luan (or Zairo) 👋</h1>
+<h1 align="center">👋 Hello! My name is cu (or Zairo) 👋</h1>
 
 ###
 
